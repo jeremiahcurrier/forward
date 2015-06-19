@@ -1,0 +1,9 @@
+<div class="input-append custom-search">
+  <input type="text" placeholder="{{t "layout.placeholder_text"}}">
+  <button class="search-btn btn" type="button">{{t "layout.search_button"}}</button>
+  </div>
+<h4>Content</h4>
+<textarea rows="4" cols="50">
+At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
+</textarea>
+<button class="btn email">Test Forward Ticket to Current User</button>
