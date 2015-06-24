@@ -1,0 +1,33 @@
+input {
+  border-radius: 5px;
+  width: 310px;
+}
+
+textarea {
+  height: 18px;
+  width: 310px;
+  border-radius: 5px;
+}
+
+.btn {
+  background: #fffc00;
+  background-image: -webkit-linear-gradient(top, #fffc00, #fffc00);
+  background-image: -moz-linear-gradient(top, #fffc00, #fffc00);
+  background-image: -ms-linear-gradient(top, #fffc00, #fffc00);
+  background-image: -o-linear-gradient(top, #fffc00, #fffc00);
+  background-image: linear-gradient(to bottom, #fffc00, #fffc00);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #517fa4;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 320px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}

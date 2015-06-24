@@ -1,0 +1,1 @@
+You were mentioned in ticket <a href="{{notification.ticket_url}}">#{{notification.ticket_id}}</a> and the comment is below.<br></br><br><em>"{{notification.comment_text}}"</em>

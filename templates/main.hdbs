@@ -1,9 +1,15 @@
-<div class="input-append custom-search">
-  <input type="text" placeholder="{{t "layout.placeholder_text"}}">
-  <button class="search-btn btn" type="button">{{t "layout.search_button"}}</button>
+<div class="app-container">
+  <h4>Forward To:</h4>
+  <p>&nbsp;</p>
+  <div class="input-email">
+    <input class="input" type="text" placeholder="Enter email address here">
   </div>
-<h4>Content</h4>
-<textarea rows="4" cols="50">
-At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
-</textarea>
-<button class="btn email">Test Forward Ticket to Current User</button>
+  <p>&nbsp;</p>
+  <h4>Comment:</h4>
+  <p>&nbsp;</p>
+  <div>
+    <textarea class="textarea" placeholder="Optional comment here..."></textarea>
+  </div>
+  <p>&nbsp;</p>
+  <button class="btn email-test">SEND</button>
+</div>
